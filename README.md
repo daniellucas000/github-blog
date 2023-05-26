@@ -13,7 +13,7 @@
 <h3 >
 
 <h2>Sobre</h2>
-<p align="left">Ignite shop 2.0 é uma aplicação web para compras de múltiplos produtos originais da Rocketseat. <br/> Esse projeto é um dos desafios da trilha de React do Ignite</p>
+<p align="left">Neste desafio, foi desenvolvida uma aplicação que utiliza a API do GitHub para buscar issues de um repositório, dados do seu perfil e exibi-los como um blog.</p>
 
 <h2>Tecnologias utilizadas</h2>
 
@@ -24,9 +24,10 @@
 
 - [ReactJS](https://reactjs.org)
 - [React Router Dom](https://reactrouter.com/en/main)
+- [React Hook Form](https://react-hook-form.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Stitches](https://stitches.dev/)
-- [Stripe](https://dashboard.stripe.com/register)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Styled Components](https://styled-components.com/)
 
 ---
 
@@ -35,10 +36,10 @@
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/daniellucas000/ignite-shop.git
+    $ git clone https://github.com/daniellucas000/github-blog.git
 
     # Entrar no diretório
-    $ cd ignite-shop
+    $ cd github-blog
 
     # Instalar as dependências
     $ npm install
